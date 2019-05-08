@@ -8,4 +8,7 @@ public class Caculator{
   public static in minus(int a, int b){
     return a-b;
   }
+  public static in multiple(int a, int b){
+    return a*b;
+  }
 }
