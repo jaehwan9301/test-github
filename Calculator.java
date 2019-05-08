@@ -2,10 +2,10 @@ package com.mycompany.test;
 public class Caculator{
   public static void main(String[] args) {
   }
-  private static in sum(int a, int b){
+  public static in sum(int a, int b){
     return a+b;
   }
-  private static in minus(int a, int b){
+  public static in minus(int a, int b){
     return a-b;
   }
 }
